@@ -26,5 +26,6 @@ conda activate nlp_100
 
 ```bash
 python src/section01.py
+python src/section02.py 4
 ```
 
